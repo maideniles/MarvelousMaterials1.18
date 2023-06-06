@@ -203,11 +203,7 @@ public class ModPlacements {
                     BlockPredicateFilter.forPredicate(BlockPredicate.wouldSurvive(Blocks.OAK_SAPLING.defaultBlockState(),
                             BlockPos.ZERO)), BiomeFilter.biome()));
 
- /*   public static final PlacedFeature PALM_TREE_PLACEMENT = PlacementUtils.register("palm_placement",
-            ModFeatures. PALM_TREE_CONFIG.placed(PlacementUtils.countExtra(1, 0.05F, 1),
-                    InSquarePlacement.spread(), VegetationPlacements.TREE_THRESHOLD, PlacementUtils.HEIGHTMAP_OCEAN_FLOOR,
-                    BlockPredicateFilter.forPredicate(BlockPredicate.wouldSurvive(Blocks.CACTUS.defaultBlockState(),
-                            BlockPos.ZERO)), BiomeFilter.biome()));
+
 
  public static final PlacedFeature PALM_TREE_PLACEMENT = PlacementUtils.register("palm_tree_placement",
          ModFeatures. PALM_TREE_CONFIG.placed(PlacementUtils.countExtra(1, 0.05F, 1),
@@ -216,7 +212,7 @@ public class ModPlacements {
                          BlockPos.ZERO)), BiomeFilter.biome()));
 
 
-*/
+
     private static <FC extends FeatureConfiguration> ConfiguredFeature<FC, ?> register(String name, ConfiguredFeature<FC, ?> configuredFeature) {
         return Registry.register(BuiltinRegistries.CONFIGURED_FEATURE, name, configuredFeature);
     }

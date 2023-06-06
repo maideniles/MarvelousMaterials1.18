@@ -66,9 +66,9 @@ public class ModTreeGen {
 
         }
 
-        //if(event.getCategory() == Biome.BiomeCategory.BEACH){
-  //          event.getGeneration().addFeature(GenerationStep.Decoration.VEGETAL_DECORATION,ModPlacements.PALM_TREE_PLACEMENT);
-    //    }
+        if(event.getCategory() == Biome.BiomeCategory.BEACH){
+            event.getGeneration().addFeature(GenerationStep.Decoration.VEGETAL_DECORATION,ModPlacements.PALM_TREE_PLACEMENT);
+        }
 
 
     }

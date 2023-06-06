@@ -252,7 +252,7 @@ public class ModFeatures {
                     new TwoLayersFeatureSize(0, 0, 0)).ignoreVines().build())));
 
     public static final ConfiguredFeature<TreeConfiguration, ?>PALM_TREE_CONFIG = FeatureUtils.register("palm_tree",
-            ModFeatures.PALM_TREE.configured((new TreeConfiguration.TreeConfigurationBuilder(BlockStateProvider.simple(Blocks.AIR), new
+            ModFeatures.PALM_TREE_INSTANCE.configured((new TreeConfiguration.TreeConfigurationBuilder(BlockStateProvider.simple(Blocks.AIR), new
                     FancyTrunkPlacer(4, 2, 2),
                     new WeightedStateProvider(SimpleWeightedRandomList.<BlockState>builder().add(Blocks.AIR.defaultBlockState(), 1)
                             .add(Blocks.AIR.defaultBlockState(), 2)),
@@ -277,8 +277,8 @@ public class ModFeatures {
                     new TwoLayersFeatureSize(0, 0, 0)).ignoreVines().build())));
 
 
-    public static final Feature<TreeConfiguration> PALM_TREE = new PalmTreeFeature(TreeConfiguration.CODEC);
- //  public static final RegistryObject<Feature<TreeConfiguration>> PALM_TREE = Registration.FEATURES.register("palm_tree", () -> PALM_TREE_INSTANCE);
+    public static final Feature<TreeConfiguration> PALM_TREE_INSTANCE = new PalmTreeFeature(TreeConfiguration.CODEC);
+    public static final RegistryObject<Feature<TreeConfiguration>> PALM_TREE = Registration.FEATURES.register("palm_tree", () -> PALM_TREE_INSTANCE);
 
 
 
