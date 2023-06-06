@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/whitewashed_slab" },
+        "type=top": { "model": "maidensmaterials:block/whitewashed_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/whitewashed_planks" }
+    }
+}

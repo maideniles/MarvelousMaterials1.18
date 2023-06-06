@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "maidensmaterials:block/red_stained_planks",
+        "top": "maidensmaterials:block/red_stained_planks",
+        "side": "maidensmaterials:block/red_stained_planks"
+    }
+}

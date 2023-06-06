@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "maidensmaterials:block/paulownia_log_top",
+        "side": "maidensmaterials:block/paulownia_log"
+    }
+}

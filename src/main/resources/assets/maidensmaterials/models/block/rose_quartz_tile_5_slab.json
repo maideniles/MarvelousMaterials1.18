@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "maidensmaterials:block/rose_quartz_5",
+        "top": "maidensmaterials:block/rose_quartz_5",
+        "side": "maidensmaterials:block/rose_quartz_5"
+    }
+}

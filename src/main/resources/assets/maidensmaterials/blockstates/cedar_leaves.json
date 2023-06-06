@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"": [
+		{"model": "maidensmaterials:block/cedar_leaves"}, 
+		{"model": "maidensmaterials:block/cedar_leaves_1"}, 
+		{"model": "maidensmaterials:block/cedar_leaves_2"}
+		
+		]
+				
+	}
+}

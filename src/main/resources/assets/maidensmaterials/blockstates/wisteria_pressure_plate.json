@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "maidensmaterials:block/wisteria_pressure_plate_up" },
+        "powered=true": { "model": "maidensmaterials:block/wisteria_pressure_plate_down" }
+    }
+}

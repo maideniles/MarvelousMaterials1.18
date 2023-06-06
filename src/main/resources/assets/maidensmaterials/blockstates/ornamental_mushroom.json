@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "": [
+            { "model": "maidensmaterials:block/ornamental_mushroom_1" },
+            { "model": "maidensmaterials:block/ornamental_mushroom_2" },
+            { "model": "maidensmaterials:block/ornamental_mushroom_3" },
+            { "model": "maidensmaterials:block/ornamental_mushroom_4" },
+            { "model": "maidensmaterials:block/ornamental_mushroom_5" }
+        ]
+		
+       
+    }
+}

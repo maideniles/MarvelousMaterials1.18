@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"5": "maidensmaterials:block/cherry_top1_large",
+		"13": "maidensmaterials:block/cherry1_large",
+		"16": "maidensmaterials:block/cherry2_large",
+		"19": "maidensmaterials:block/cherry3_large",
+		"22": "maidensmaterials:block/cherry4_large",
+		"particle": "maidensmaterials:block/cherry_top_large"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#13"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#22"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#19"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#16"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+			}
+		}
+	]
+}

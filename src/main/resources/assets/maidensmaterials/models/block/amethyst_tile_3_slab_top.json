@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "maidensmaterials:block/amethyst_3",
+        "top": "maidensmaterials:block/amethyst_3",
+        "side": "maidensmaterials:block/amethyst_3"
+    }
+}

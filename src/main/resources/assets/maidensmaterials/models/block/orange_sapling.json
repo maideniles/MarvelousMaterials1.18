@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "maidensmaterials:block/orange_sapling"
+    }
+}

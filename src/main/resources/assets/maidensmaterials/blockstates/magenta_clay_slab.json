@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/magenta_clay_slab" },
+        "type=top": { "model": "maidensmaterials:block/magenta_clay_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/magenta_clay_block" }
+    }
+}

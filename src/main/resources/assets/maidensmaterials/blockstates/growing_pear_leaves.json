@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "age=0":  { "model": "maidensmaterials:block/pear_0_leaves" },
+		
+	
+        "age=1": [ { "model": "maidensmaterials:block/pear_1_leaves" },{ "model": "maidensmaterials:block/pear_1_leaves1" },{ "model": "maidensmaterials:block/pear_1_leaves2" },{ "model": "maidensmaterials:block/pear_1_leaves3" },{ "model": "maidensmaterials:block/pear_0_leaves" }],
+		
+	
+        "age=2": [ { "model": "maidensmaterials:block/pear_2_leaves" },{ "model": "maidensmaterials:block/pear_2_leaves1" },{ "model": "maidensmaterials:block/pear_2_leaves2" },{ "model": "maidensmaterials:block/pear_2_leaves3" },{ "model": "maidensmaterials:block/pear_0_leaves" }],
+	
+	
+        "age=3": [ { "model": "maidensmaterials:block/pear_3_leaves" },{ "model": "maidensmaterials:block/pear_3_leaves1" },{ "model": "maidensmaterials:block/pear_3_leaves2" },{ "model": "maidensmaterials:block/pear_3_leaves3" },{ "model": "maidensmaterials:block/pear_0_leaves" }]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/silverbell_slab" },
+        "type=top": { "model": "maidensmaterials:block/silverbell_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/silverbell_planks" }
+    }
+}

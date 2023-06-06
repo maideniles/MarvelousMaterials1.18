@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+       "bottom": "maidensmaterials:block/door2_jacaranda_bottom",
+        "top": "maidensmaterials:block/door2_jacaranda_top"
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "marvelousmaterials:block/window_box_left",
+
+	"textures": {
+		"0": "block/cauldron_side",
+		"2": "block/dirt",
+		"side": "block/crimson_planks",
+		"particle": "#side"
+	}
+	
+}

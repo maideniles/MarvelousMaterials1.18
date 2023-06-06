@@ -1,0 +1,27 @@
+{
+
+"fairy_fly_ambient": {
+	"category": "neutral",
+	"subtitle": "maidensmaterials.fairy_fly_ambient",
+	"sounds": ["maidensmaterials:fairy_fly_ambient"]
+	},
+	
+"fairy_fly_hurt": {
+	"category": "neutral",
+	"subtitle": "maidensmaterials.fairy_fly_hurt",
+	"sounds": ["maidensmaterials:fairy_fly_hurt"]
+	},
+	
+"fairy_fly_die": {
+	"category": "neutral",
+	"subtitle": "maidensmaterials.fairy_fly_die",
+	"sounds": ["maidensmaterials:fairy_fly_die"]
+	},
+	
+	"fairy_fly_eat": {
+	"category": "neutral",
+	"subtitle": "maidensmaterials.fairy_fly_eat",
+	"sounds": ["maidensmaterials:fairy_fly_eat"]
+	}
+
+}

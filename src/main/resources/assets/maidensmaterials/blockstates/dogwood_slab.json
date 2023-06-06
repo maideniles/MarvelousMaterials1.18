@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/dogwood_slab" },
+        "type=top": { "model": "maidensmaterials:block/dogwood_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/dogwood_planks" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "maidensmaterials:block/labradorite_6",
+        "top": "maidensmaterials:block/labradorite_6",
+        "side": "maidensmaterials:block/labradorite_6"
+    }
+}

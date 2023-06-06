@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/jasper_tile_2_slab" },
+        "type=top": { "model": "maidensmaterials:block/jasper_tile_2_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/jasper_tile_2" }
+    }
+}

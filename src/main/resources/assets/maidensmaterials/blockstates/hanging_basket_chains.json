@@ -1,0 +1,79 @@
+{
+  "variants": {
+	  
+    "face=ceiling,facing=east": {
+      "model": "marvelousmaterials:block/hanging_basket_chains",
+      "y": 270
+      
+    },
+  
+    "face=ceiling,facing=north": {
+      "model": "marvelousmaterials:block/hanging_basket_chains",
+      "y": 180
+     
+    },
+   
+    "face=ceiling,facing=south": {
+      "model": "marvelousmaterials:block/hanging_basket_chains"
+    
+    },
+    
+    "face=ceiling,facing=west": {
+      "model": "marvelousmaterials:block/hanging_basket_chains",
+      "y": 90
+      
+    },
+	
+    
+    "face=floor,facing=east": {
+      "model": "marvelousmaterials:block/hanging_basket_chains",
+      "y": 90
+    },
+   
+    "face=floor,facing=north": {
+      "model": "marvelousmaterials:block/hanging_basket_chains"
+	 
+    },
+   
+    "face=floor,facing=south": {
+      "model": "marvelousmaterials:block/hanging_basket_chains",
+      "y": 180
+    },
+   
+    "face=floor,facing=west": {
+      "model": "marvelousmaterials:block/hanging_basket_chains",
+      "y": 270
+    },
+    
+	
+	
+    "face=wall,facing=east": {
+      "model": "marvelousmaterials:block/hanging_basket_chains_wall",
+      "y": 90
+     
+     
+    },
+  
+    "face=wall,facing=north": {
+      "model": "marvelousmaterials:block/hanging_basket_chains_wall",
+     
+	   "y": 0
+     
+    },
+   
+   
+    "face=wall,facing=south": {
+      "model": "marvelousmaterials:block/hanging_basket_chains_wall",
+      "y": 180
+    
+     
+    },
+   
+    "face=wall,facing=west": {
+      "model": "marvelousmaterials:block/hanging_basket_chains_wall",
+      "y": 270
+    
+     
+    }
+  }
+}

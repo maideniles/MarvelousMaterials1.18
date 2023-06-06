@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "maidensmaterials:block/amethyst_3",
+        "top": "maidensmaterials:block/amethyst_3",
+        "side": "maidensmaterials:block/amethyst_3"
+    }
+}

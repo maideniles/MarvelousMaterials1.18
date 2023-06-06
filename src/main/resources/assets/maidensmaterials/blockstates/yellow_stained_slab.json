@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/yellow_stained_slab" },
+        "type=top": { "model": "maidensmaterials:block/yellow_stained_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/yellow_stained_planks" }
+    }
+}

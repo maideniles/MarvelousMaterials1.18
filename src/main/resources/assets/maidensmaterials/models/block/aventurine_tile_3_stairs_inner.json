@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "maidensmaterials:block/aventurine_3",
+        "top": "maidensmaterials:block/aventurine_3",
+        "side": "maidensmaterials:block/aventurine_3"
+    }
+}

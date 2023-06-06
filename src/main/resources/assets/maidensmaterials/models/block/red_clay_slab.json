@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "maidensmaterials:block/red_clay_block",
+        "top": "maidensmaterials:block/red_clay_block",
+        "side": "maidensmaterials:block/red_clay_block"
+    }
+}

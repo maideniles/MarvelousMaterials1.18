@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+       "bottom": "maidensmaterials:block/pink_stained_door_4_bottom",
+        "top": "maidensmaterials:block/pink_stained_door_4_top"
+    }
+}

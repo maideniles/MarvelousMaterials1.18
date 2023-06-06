@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/jacaranda_slab" },
+        "type=top": { "model": "maidensmaterials:block/jacaranda_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/jacaranda_planks" }
+    }
+}

@@ -1,0 +1,39 @@
+{
+   
+  "variants": {
+	  
+	"flower=0":  {"model": "marvelousmaterials:block/hanging_basket" },
+	"flower=1": {"model": "marvelousmaterials:block/hanging_basket_berry" },
+	"flower=2": {"model": "marvelousmaterials:block/hanging_basket_crimson_r" },
+    "flower=3":  {"model": "marvelousmaterials:block/hanging_basket_poppy" },
+    "flower=4":  {"model": "marvelousmaterials:block/hanging_basket_t_red" },
+    "flower=5": {"model": "marvelousmaterials:block/hanging_basket_red_m" },
+    "flower=6": {"model": "marvelousmaterials:block/hanging_basket_crimson_m" },
+    "flower=7":  {"model": "marvelousmaterials:block/hanging_basket_t_orange" },
+	"flower=8":  {"model": "marvelousmaterials:block/hanging_basket_dandelion" },
+    "flower=9": {"model": "marvelousmaterials:block/hanging_basket_cactus" },
+    "flower=10": {"model": "marvelousmaterials:block/hanging_basket_bamboo" }, 
+	"flower=11": {"model": "marvelousmaterials:block/hanging_basket_azalea" },
+	"flower=12": {"model": "marvelousmaterials:block/hanging_basket_fern" },
+    "flower=13": {"model": "marvelousmaterials:block/hanging_basket_warped_m" },
+    "flower=14": {"model": "marvelousmaterials:block/hanging_basket_warped_r" },
+    "flower=15": {"model": "marvelousmaterials:block/hanging_basket_orchid" },
+    "flower=16": {"model": "marvelousmaterials:block/hanging_basket_cornflower" },
+    "flower=17": {"model": "marvelousmaterials:block/hanging_basket_allium" },
+    "flower=18": {"model": "marvelousmaterials:block/hanging_basket_azalea_f" },
+    "flower=19":  {"model": "marvelousmaterials:block/hanging_basket_t_pink" },
+    "flower=20":  {"model": "marvelousmaterials:block/hanging_basket_t_white" },
+	"flower=21":  {"model": "marvelousmaterials:block/hanging_basket_daisy" },
+    "flower=22":  {"model": "marvelousmaterials:block/hanging_basket_bluet" },
+    "flower=23":  {"model": "marvelousmaterials:block/hanging_basket_lily" },
+    "flower=24": {"model": "marvelousmaterials:block/hanging_basket_brown_m" },
+    "flower=25": {"model": "marvelousmaterials:block/hanging_basket_wither" },
+    "flower=26": {"model": "marvelousmaterials:block/hanging_basket_acacia" },
+    "flower=27": {"model": "marvelousmaterials:block/hanging_basket_birch" },
+    "flower=28": {"model": "marvelousmaterials:block/hanging_basket_oak" },
+	"flower=29": {"model": "marvelousmaterials:block/hanging_basket_dark" },
+    "flower=30": {"model": "marvelousmaterials:block/hanging_basket_spruce" },
+    "flower=31": {"model": "marvelousmaterials:block/hanging_basket_jungle" }
+    
+  }
+}

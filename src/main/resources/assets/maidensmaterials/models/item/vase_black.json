@@ -1,0 +1,10 @@
+{
+    "parent": "maidensmaterials:block/vase_black",
+    "display": {
+        "gui": {
+            "rotation": [ 12, 30, 0 ],
+            "translation": [ 0, 6, 0 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        }
+    }
+}

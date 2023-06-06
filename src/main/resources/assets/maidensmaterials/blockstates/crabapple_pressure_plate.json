@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "maidensmaterials:block/crabapple_pressure_plate_up" },
+        "powered=true": { "model": "maidensmaterials:block/crabapple_pressure_plate_down" }
+    }
+}

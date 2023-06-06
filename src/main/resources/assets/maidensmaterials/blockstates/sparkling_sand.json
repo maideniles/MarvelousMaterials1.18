@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "maidensmaterials:block/sparkling_sand" },
+            { "model": "maidensmaterials:block/sparkling_sand", "y": 90 },
+            { "model": "maidensmaterials:block/sparkling_sand", "y": 180 },
+            { "model": "maidensmaterials:block/sparkling_sand", "y": 270 }
+        ]
+    }
+}

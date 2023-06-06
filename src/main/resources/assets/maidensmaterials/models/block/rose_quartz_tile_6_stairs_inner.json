@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "maidensmaterials:block/rose_quartz_6",
+        "top": "maidensmaterials:block/rose_quartz_6",
+        "side": "maidensmaterials:block/rose_quartz_6"
+    }
+}

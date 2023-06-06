@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "maidensmaterials:block/black_clay_block",
+        "top": "maidensmaterials:block/black_clay_block",
+        "side": "maidensmaterials:block/black_clay_block"
+    }
+}

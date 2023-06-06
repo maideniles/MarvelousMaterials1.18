@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "maidensmaterials:block/chalcopyrite_2",
+        "top": "maidensmaterials:block/chalcopyrite_2",
+        "side": "maidensmaterials:block/chalcopyrite_2"
+    }
+}

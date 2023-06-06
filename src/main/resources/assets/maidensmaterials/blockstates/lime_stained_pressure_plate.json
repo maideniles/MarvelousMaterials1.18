@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "maidensmaterials:block/lime_stained_pressure_plate_up" },
+        "powered=true": { "model": "maidensmaterials:block/lime_stained_pressure_plate_down" }
+    }
+}

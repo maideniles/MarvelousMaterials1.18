@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "maidensmaterials:block/brown_large_brick_block",
+        "top": "maidensmaterials:block/brown_large_brick_block",
+        "side": "maidensmaterials:block/brown_large_brick_block"
+    }
+}

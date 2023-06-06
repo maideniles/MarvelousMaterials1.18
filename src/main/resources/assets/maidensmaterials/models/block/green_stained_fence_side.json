@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "texture": "maidensmaterials:block/green_stained_planks"
+    }
+}

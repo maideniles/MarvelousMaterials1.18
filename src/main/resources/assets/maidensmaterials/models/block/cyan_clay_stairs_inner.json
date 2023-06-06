@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "maidensmaterials:block/cyan_clay_block",
+        "top": "maidensmaterials:block/cyan_clay_block",
+        "side": "maidensmaterials:block/cyan_clay_block"
+    }
+}

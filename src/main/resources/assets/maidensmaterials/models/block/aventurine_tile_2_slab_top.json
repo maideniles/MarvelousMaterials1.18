@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "maidensmaterials:block/aventurine_2",
+        "top": "maidensmaterials:block/aventurine_2",
+        "side": "maidensmaterials:block/aventurine_2"
+    }
+}

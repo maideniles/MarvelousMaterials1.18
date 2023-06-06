@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "maidensmaterials:block/light_blue_clay_block",
+        "side": "maidensmaterials:block/light_blue_clay_block"
+    }
+}

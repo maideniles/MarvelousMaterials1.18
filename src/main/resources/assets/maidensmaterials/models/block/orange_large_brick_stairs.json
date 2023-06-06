@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "maidensmaterials:block/orange_large_brick_block",
+        "top": "maidensmaterials:block/orange_large_brick_block",
+        "side": "maidensmaterials:block/orange_large_brick_block"
+    }
+}

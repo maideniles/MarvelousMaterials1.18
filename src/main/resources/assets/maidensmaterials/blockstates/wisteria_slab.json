@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/wisteria_slab" },
+        "type=top": { "model": "maidensmaterials:block/wisteria_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/wisteria_planks" }
+    }
+}

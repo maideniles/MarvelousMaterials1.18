@@ -1,0 +1,5 @@
+{    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "maidensmaterials:block/pink_stained_planks"
+    }
+}

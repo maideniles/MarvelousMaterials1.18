@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/rose_quartz_tile_6_slab" },
+        "type=top": { "model": "maidensmaterials:block/rose_quartz_tile_6_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/rose_quartz_tile_6" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "maidensmaterials:block/moonstone_3",
+        "top": "maidensmaterials:block/moonstone_3",
+        "side": "maidensmaterials:block/moonstone_3"
+    }
+}

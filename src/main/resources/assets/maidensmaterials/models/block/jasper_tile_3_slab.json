@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "maidensmaterials:block/jasper_3",
+        "top": "maidensmaterials:block/jasper_3",
+        "side": "maidensmaterials:block/jasper_3"
+    }
+}

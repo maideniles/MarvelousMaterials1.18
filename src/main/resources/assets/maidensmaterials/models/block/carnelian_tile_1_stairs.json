@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "maidensmaterials:block/carnelian_1",
+        "top": "maidensmaterials:block/carnelian_1",
+        "side": "maidensmaterials:block/carnelian_1"
+    }
+}

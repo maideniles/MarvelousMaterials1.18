@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "maidensmaterials:block/dark_oak_planks",
+        "side": "maidensmaterials:block/dark_oak_bookshelf"
+    }
+}

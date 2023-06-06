@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "maidensmaterials:block/magenta_stained_planks"
+    }
+}

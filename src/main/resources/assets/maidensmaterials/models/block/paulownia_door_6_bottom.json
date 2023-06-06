@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "maidensmaterials:block/door6_paulownia_bottom",
+        "top": "maidensmaterials:block/door6_paulownia_top"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "maidensmaterials:block/ornamental_mushroom_1"
+    }
+}

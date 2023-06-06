@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/citrine_tile_3_slab" },
+        "type=top": { "model": "maidensmaterials:block/citrine_tile_3_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/citrine_tile_3" }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmaterials:block/pink_brick_slab" },
+        "type=top": { "model": "maidensmaterials:block/pink_brick_slab_top" },
+        "type=double": { "model": "maidensmaterials:block/pink_brick_block" }
+    }
+}

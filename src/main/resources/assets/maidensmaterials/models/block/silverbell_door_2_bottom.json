@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "maidensmaterials:block/door2_silverbell_bottom",
+        "top": "maidensmaterials:block/door2_silverbell_top"
+    }
+}

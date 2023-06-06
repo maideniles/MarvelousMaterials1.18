@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "maidensmaterials:block/jade_ore_nether"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "maidensmaterials:block/chalcopyrite_ore_nether"
+    }
+}
