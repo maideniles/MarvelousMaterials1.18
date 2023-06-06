@@ -252,7 +252,7 @@ public class ModFeatures {
                     new TwoLayersFeatureSize(0, 0, 0)).ignoreVines().build())));
 
     public static final ConfiguredFeature<TreeConfiguration, ?>PALM_TREE_CONFIG = FeatureUtils.register("palm_tree",
-            ModFeatures.PALM_TREE_INSTANCE.configured((new TreeConfiguration.TreeConfigurationBuilder(BlockStateProvider.simple(Blocks.AIR), new
+            ModFeatures.PALM_TREE.get().configured((new TreeConfiguration.TreeConfigurationBuilder(BlockStateProvider.simple(Blocks.AIR), new
                     FancyTrunkPlacer(4, 2, 2),
                     new WeightedStateProvider(SimpleWeightedRandomList.<BlockState>builder().add(Blocks.AIR.defaultBlockState(), 1)
                             .add(Blocks.AIR.defaultBlockState(), 2)),
